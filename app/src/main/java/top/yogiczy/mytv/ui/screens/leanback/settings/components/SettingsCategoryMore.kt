@@ -68,7 +68,7 @@ fun LeanbackSettingsCategoryMore(
 private fun LeanbackSettingsMorePreview() {
     LeanbackTheme {
         LeanbackSettingsCategoryMore(
-            serverUrl = "http://127.0.0.1:10481",
+            serverUrl = "http://127.0.0.1:9088",
         )
     }
 }
